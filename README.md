@@ -113,7 +113,7 @@ VioLina_zll
 - **入驻学院**：数学统计学院、物理与电子电气工程学院、化学化工学院、信息工程学院等。
 - **特点**：校舍较旧，但交通便利，但环境优美，临近怀远夜市与宁阳广场，方便出去玩。
 
-- ![怀远地图](https://picgo-bucket-violina.oss-cn-beijing.aliyuncs.com/20250811163605998.png)
+![怀远地图](https://picgo-bucket-violina.oss-cn-beijing.aliyuncs.com/20250811163605998.png)
 
 2. 文萃校区（原 C 区）
 
@@ -121,7 +121,7 @@ VioLina_zll
 - **入驻学院** ：人文学院、法学院、经济管理学院、新闻传播学院等人文类学院。以及美术学院、音乐学院等艺术类学院。
 - **特点**：校园环境优美，图书馆资源丰富，宿舍条件较好。
 
-- ![文萃地图](https://picgo-bucket-violina.oss-cn-beijing.aliyuncs.com/20250811164257293.png)
+![文萃地图](https://picgo-bucket-violina.oss-cn-beijing.aliyuncs.com/20250811164257293.png)
 
 3. 贺兰山校区（原 A 区）
 
@@ -130,13 +130,13 @@ VioLina_zll
 - **入驻学院** ：农学院、葡萄酒与园艺学院、动物科技学院等。
 - **特点**：校园面积大，绿化好，学生居住集中，有全宁大最新最好的教室（未来教室），学校大多数行政部门都集中在贺兰山主楼。
 
-- ![贺兰山地图](https://picgo-bucket-violina.oss-cn-beijing.aliyuncs.com/20250811164929076.png)
+![贺兰山地图](https://picgo-bucket-violina.oss-cn-beijing.aliyuncs.com/20250811164929076.png)
 
 4. ~~朔方校区~~（暂未收录）
 
 5. 中卫校区（仅有地图）
 
-- ![中卫地图](https://picgo-bucket-violina.oss-cn-beijing.aliyuncs.com/20250813160936117.png)
+![中卫地图](https://picgo-bucket-violina.oss-cn-beijing.aliyuncs.com/20250813160936117.png)
 
 6. ~~金凤校区~~（暂未收录）
 
