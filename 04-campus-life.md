@@ -28,12 +28,3 @@
 
 > 待补充
 
----
-
-<p align="center">
-  <a href="#/03-it-services.md">← 上一章：信息化服务</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#/">📖 回到目录</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#/05-study.md">下一章：学习 →</a>
-</p>

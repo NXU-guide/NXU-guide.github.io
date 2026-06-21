@@ -77,12 +77,3 @@
 
 > 待补充
 
----
-
-<p align="center">
-  <a href="#/04-campus-life.md">← 上一章：校园生活</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#/">📖 回到目录</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#/06-clubs.md">下一章：社团 →</a>
-</p>

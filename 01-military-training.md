@@ -44,12 +44,3 @@
 
 在此预祝各位，军训顺利。
 
----
-
-<p align="center">
-  <a href="#/00-preface.md">← 上一章：写在最前</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#/">📖 回到目录</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#/02-about-nxu.md">下一章：了解宁夏大学 →</a>
-</p>

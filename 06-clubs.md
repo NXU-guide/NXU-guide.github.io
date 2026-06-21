@@ -10,12 +10,3 @@
 
 > 待补充
 
----
-
-<p align="center">
-  <a href="#/05-study.md">← 上一章：学习</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#/">📖 回到目录</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#/07-misc.md">下一章：其他 →</a>
-</p>

@@ -48,8 +48,3 @@ https://github.com/NXU-guide/NXU-guide.github.io
 
 > 文章仅代表作者个人观点，与学校无关。
 
----
-
-<p align="center">
-  <a href="#/00-preface.md">📖 开始阅读 →</a>
-</p>

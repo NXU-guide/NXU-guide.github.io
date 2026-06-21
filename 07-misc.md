@@ -6,10 +6,3 @@
 
 > 如有其他未尽事宜，欢迎在 [GitHub Issues](https://github.com/NXU-guide/NXU-guide.github.io/issues) 提出，或联系主编微信 `VioLina_zll`。
 
----
-
-<p align="center">
-  <a href="#/06-clubs.md">← 上一章：社团</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#/">📖 回到目录</a>
-</p>

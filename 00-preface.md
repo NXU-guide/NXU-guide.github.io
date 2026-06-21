@@ -42,10 +42,3 @@ https://github.com/NXU-guide/NXU-guide.github.io
 
 声明：文章仅代表作者个人观点与学校无关。
 
----
-
-<p align="center">
-  <a href="#/">📖 回到目录</a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#/01-military-training.md">下一章：军训 →</a>
-</p>
