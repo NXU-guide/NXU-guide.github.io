@@ -14,7 +14,7 @@
 
 | 章节 | 内容简介 |
 |------|----------|
-| [零、写在最前](/00-preface.md) | 版本信息、作者介绍、参与方式 |
+| [零、写在最前](/00-preface.md) | 引言与声明 |
 | [一、军训](/01-military-training.md) | 军训意义、注意事项、必备物品清单 |
 | [二、了解宁夏大学](/02-about-nxu.md) | 校区分布、书院制度 |
 | [三、信息化服务](/03-it-services.md) | 校园网、VPN、教务平台、翻墙 |
@@ -33,7 +33,13 @@
 
 本书由 24 级计算机科学与技术三班学生，鑫启网安俱乐部科技组组长**朱林立**主导编写。
 
-- GitHub：[Megalomanian](https://github.com/Megalomanian)
+[![GitHub 名片](gh-card.svg)](https://github.com/Megalomanian)
+
+**联合作者**（排名不分先后）：
+
+```plain
+暂无
+```
 
 如果你也希望参与本书的编辑或提出修改意见：
 
